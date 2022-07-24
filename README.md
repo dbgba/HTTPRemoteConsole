@@ -11,7 +11,7 @@
 
 **HTTPRemoteConsole.exe**为**AutoHotkey**解释器，**HTTPRemoteConsole.ahk**为脚本**源码**。源码可用**记事本打开**并修改**自定义**匹配你的电脑路径或显示信息，保证.ahk与.exe同名后运行**HTTPRemoteConsole.exe**即可开启服务。
 
-![](/Preview.jpg)
+![](https://gcore.jsdelivr.net/gh/dbgba/HTTPRemoteConsole@master/Preview.jpg)
 
 
 **AutoHotkey**本身就是一个注重**自动化操作**的脚本语言，我已经把常用的自动化操作功能**集成在脚本**里，并写了大量注释。对于有定制**个性化需求**的朋友，可以编辑脚本来**调整代码**达到自己需要的效果。
